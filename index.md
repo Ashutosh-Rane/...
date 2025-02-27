@@ -84,8 +84,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshSaraf&show_icons=true&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&bg_color=00000000&text_color=000" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshSaraf&layout=compact&hide_border=true&title_color=36BCF7&bg_color=00000000&text_color=000" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Rane &show_icons=true&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&bg_color=00000000&text_color=000" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rane
+&layout=compact&hide_border=true&title_color=36BCF7&bg_color=00000000&text_color=000" alt="Top Languages">
 </p>
 
 ---
@@ -94,8 +95,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashtuosh-rane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ashutoshranead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/PrathameshSaraf"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/prathamesh"><img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/Ashutosh-Rane/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ <a href="https://t.me/+917499300730"><img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
