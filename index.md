@@ -1,12 +1,13 @@
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/Ashutosh-Rane/" target="_blank">Ashutosh Rane</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Heyy, I'm <a href="https://github.com/Ashutosh-Rane/" target="_blank">Ashutosh Rane</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/PrathameshSaraf">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer;Next.js%20Enthusiast;API%20Specialist;Freelancer%20with%20Experience&font=Fira%20Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22&pause=1000">
+  <a href="https://github.com/Ashutosh-Rane">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20Enthusiast;Machine%20Learning%20Developer;Python%20Developer&font=Fira%20Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22&pause=1000">
   </a>
 </p>
+
 
 ---
 
@@ -84,9 +85,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Rane &show_icons=true&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&bg_color=00000000&text_color=000" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rane
-&layout=compact&hide_border=true&title_color=36BCF7&bg_color=00000000&text_color=000" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Rane&show_icons=true&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&bg_color=00000000&text_color=000" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rane&layout=compact&hide_border=true&title_color=36BCF7&bg_color=00000000&text_color=000" alt="Top Languages">
 </p>
 
 ---
