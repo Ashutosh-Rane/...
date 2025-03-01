@@ -27,7 +27,12 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF1493.svg?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
+
 
 #### 🗄️ Databases
 <p align="center">
@@ -77,14 +82,14 @@ Python, TensorFlow, Scikit-learn, Flask
 
 <a href="https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal">
   <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e" 
-       alt="Voice Enabled Terminal Screenshot 1" width="400">
+       alt="Voice Enabled Terminal Screenshot 1" height="300">
   <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a" 
-       alt="Voice Enabled Terminal Screenshot 2" width="400">
+       alt="Voice Enabled Terminal Screenshot 2" height="300">
 </a>
 
 📄 **Description**  
 Developed a **voice-enabled terminal** that allows users to interact with their system through voice commands.  
-Features include **file handling, application launching, web searching**, and **system diagnostics** — all driven by **natural language processing (NLP)**.
+Key features include **file handling, application launching, web searching**, and **system diagnostics**, all powered by **Natural Language Processing (NLP)**.
 
 🌟 **Technologies Used**  
 Python, NLP, Tkinter, pyttsx3
@@ -93,6 +98,7 @@ Python, NLP, Tkinter, pyttsx3
 [Voice Enabled Terminal](https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal)
 
 ---
+
 
 
 
