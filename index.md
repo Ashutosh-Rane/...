@@ -66,8 +66,8 @@ Prediction-Using-AI
  
 #### **2. Voice Enabled Terminal**
 <a href="https://github.com/Ashutosh-Rane/Voice-Enabled Terminal">
-  <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e
-" alt="Mama's Bhangar App" width="400">
+  <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e"
+ alt="Voice Enabled Terminal" width="400">
   <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a"
 alt="Voice Enabled Terminal" width="400">
 </a>
