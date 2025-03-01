@@ -49,19 +49,27 @@
 
 <h1>📱Projects</h1> 
 
-#### **1.  PlantAI - Plant Disease Prediction**
-<a href="https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI ">
-  <img src="https://github.com/user-attachments/assets/52055505-5cad-43bf-9c19-7bfaaa7c3a27"
- alt="PlantAI - Plant Disease Prediction" width="400">
+---
+
+### 🌿 PlantAI - Plant Disease Prediction
+
+<a href="https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI">
+  <img src="https://github.com/user-attachments/assets/52055505-5cad-43bf-9c19-7bfaaa7c3a27" 
+       alt="PlantAI - Plant Disease Prediction" width="500">
 </a>
 
-- 📄 **Description**: Developed a ResNet-18 model to classify 38 plant diseases using a
- dataset of 70,000 images.
- Build the backend using Flask to integrate the CNN model with the web
- application.
-- 🌟 **Technologies Used**: Python, TensorFlow, Scikit-learn, Flask
-Github Link: https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI  
+📄 **Description**  
+Developed a **ResNet-18** model to classify **38 plant diseases** using a dataset of **70,000 images**.  
+Built a **Flask backend** to integrate the CNN model with a user-friendly web application for disease prediction.
+
+🌟 **Technologies Used**  
+Python, TensorFlow, Scikit-learn, Flask
+
+🔗 **GitHub Repository**  
+[PlantAI - Plant Disease Prediction](https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI)
+
 ---
+
  
 #### **2. Voice Enabled Terminal**
 <a href="https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal">
