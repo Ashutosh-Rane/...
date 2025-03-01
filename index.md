@@ -50,7 +50,7 @@
 <h1>📱Projects</h1> 
 
 #### **1.  PlantAI - Plant Disease Prediction**
-<a href="https://play.google.com/store/apps/details?id=com.fabelindia.name&hl=en_IN">
+<a href="https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease">
   <img src="https://github.com/user-attachments/assets/52055505-5cad-43bf-9c19-7bfaaa7c3a27"
  alt="PlantAI - Plant Disease Prediction" width="400">
 </a>
@@ -59,32 +59,28 @@
  dataset of 70,000 images.
  Build the backend using Flask to integrate the CNN model with the web
  application.
-- 🌟 **Technologies Used**: Flutter, Firebase, UI/UX Design.
+- 🌟 **Technologies Used**: Python, TensorFlow, Scikit-learn, Flask
 Github Link: https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease
 Prediction-Using-AI  
 ---
  
-#### **2. Mama's Bhangar App**
-<a href="https://play.google.com/store/apps/details?id=com.datacliff.mamas_bhangar_app&pli=1">
-  <img src="https://github.com/user-attachments/assets/2b203614-1dca-41be-b324-8a1b259def87" alt="Mama's Bhangar App" width="400">
+#### **2. Voice Enabled Terminal**
+<a href="https://github.com/Ashutosh-Rane/Voice-Enabled Terminal">
+  <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e
+" alt="Mama's Bhangar App" width="400">
+  <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a"
+alt="Voice Enabled Terminal" width="400">
 </a>
  
-- 📄 **Description**: A scalable app.
+- 📄 **Description**: Developed a Voice-based user-friendly Terminal.
+ Implemented file handling, application launching, web searching, and
+ performing system diagnostics.
 - 🌟 **Technologies Used**: Flutter, Firebase, UI/UX Design.
-- 🔗 [Download on Play Store](https://play.google.com/store/apps/details?id=com.datacliff.mamas_bhangar_app&pli=1)
+- 🔗 Github Link: https://github.com/Ashutosh-Rane/Voice-Enabled Terminal
 
 ---
 
-#### **3. Rafai Clinic App**
-<a href="https://play.google.com/store/apps/details?id=com.datacliff.dc_health_clinic_app">
-  <img src="https://github.com/user-attachments/assets/c9940520-b73c-431d-b2e5-c4b341a7065d" alt="Rafai Clinic App" width="400">
-</a>
-
-- 📄 **Description**: A clinic management solution for Rafai clinic.
-- 🌟 **Technologies Used**: Flutter, Firebase, UI/UX Design.
-- 🔗 [Download on Play Store](https://play.google.com/store/apps/details?id=com.datacliff.dc_health_clinic_app)
-
----
+ 
 
 
 ### 📈 GitHub Stats
