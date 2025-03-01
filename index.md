@@ -50,7 +50,7 @@
 <h1>📱Projects</h1> 
 
 #### **1.  PlantAI - Plant Disease Prediction**
-<a href="https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease">
+<a href="https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI ">
   <img src="https://github.com/user-attachments/assets/52055505-5cad-43bf-9c19-7bfaaa7c3a27"
  alt="PlantAI - Plant Disease Prediction" width="400">
 </a>
@@ -60,12 +60,11 @@
  Build the backend using Flask to integrate the CNN model with the web
  application.
 - 🌟 **Technologies Used**: Python, TensorFlow, Scikit-learn, Flask
-Github Link: https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease
-Prediction-Using-AI  
+Github Link: https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI  
 ---
  
 #### **2. Voice Enabled Terminal**
-<a href="https://github.com/Ashutosh-Rane/Voice-Enabled Terminal">
+<a href="https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal">
   <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e"
  alt="Voice Enabled Terminal" width="400">
   <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a"
@@ -75,12 +74,10 @@ alt="Voice Enabled Terminal" width="400">
 - 📄 **Description**: Developed a Voice-based user-friendly Terminal.
  Implemented file handling, application launching, web searching, and
  performing system diagnostics.
-- 🌟 **Technologies Used**: Flutter, Firebase, UI/UX Design.
-- 🔗 Github Link: https://github.com/Ashutosh-Rane/Voice-Enabled Terminal
+- 🌟 **Technologies Used**: Python, NLP, Tkinter, pyttsx3.
+- 🔗 Github Link: https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal
 
 ---
-
- 
 
 
 ### 📈 GitHub Stats
