@@ -47,17 +47,21 @@
 ---
 
 
-<h1>📱 Freelancer Projects</h1> 
+<h1>📱Projects</h1> 
 
-#### **1. Fable App**
+#### **1.  PlantAI - Plant Disease Prediction**
 <a href="https://play.google.com/store/apps/details?id=com.fabelindia.name&hl=en_IN">
-  <img src="https://github.com/user-attachments/assets/4429cf8f-d6b9-4221-bc57-824276043be2" alt="Fable App" width="400">
+  <img src="![image](https://github.com/user-attachments/assets/d269f266-b126-45cf-a911-d491c6899794)
+" alt="PlantAI - Plant Disease Prediction" width="400">
 </a>
 
-- 📄 **Description**: Fashion app.
+- 📄 **Description**: Developed a ResNet-18 model to classify 38 plant diseases using a
+ dataset of 70,000 images.
+ Build the backend using Flask to integrate the CNN model with the web
+ application.
 - 🌟 **Technologies Used**: Flutter, Firebase, UI/UX Design.
-- 🔗 [Download on Play Store](https://play.google.com/store/apps/details?id=com.fabelindia.name&hl=en_IN)
-
+Github Link: https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease
+Prediction-Using-AI  
 ---
  
 #### **2. Mama's Bhangar App**
