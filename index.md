@@ -71,21 +71,29 @@ Python, TensorFlow, Scikit-learn, Flask
 ---
 
  
-#### **2. Voice Enabled Terminal**
+---
+
+### 🗣️ Voice Enabled Terminal
+
 <a href="https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal">
-  <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e"
- alt="Voice Enabled Terminal" width="400">
-  <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a"
-alt="Voice Enabled Terminal" width="400">
+  <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e" 
+       alt="Voice Enabled Terminal Screenshot 1" width="400">
+  <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a" 
+       alt="Voice Enabled Terminal Screenshot 2" width="400">
 </a>
- 
-- 📄 **Description**: Developed a Voice-based user-friendly Terminal.
- Implemented file handling, application launching, web searching, and
- performing system diagnostics.
-- 🌟 **Technologies Used**: Python, NLP, Tkinter, pyttsx3.
-- 🔗 Github Link: https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal
+
+📄 **Description**  
+Developed a **voice-enabled terminal** that allows users to interact with their system through voice commands.  
+Features include **file handling, application launching, web searching**, and **system diagnostics** — all driven by **natural language processing (NLP)**.
+
+🌟 **Technologies Used**  
+Python, NLP, Tkinter, pyttsx3
+
+🔗 **GitHub Repository**  
+[Voice Enabled Terminal](https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal)
 
 ---
+
 
 
 ### 📈 GitHub Stats
