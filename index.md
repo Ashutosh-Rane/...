@@ -51,8 +51,8 @@
 
 #### **1.  PlantAI - Plant Disease Prediction**
 <a href="https://play.google.com/store/apps/details?id=com.fabelindia.name&hl=en_IN">
-  <img src="![image](https://github.com/user-attachments/assets/d269f266-b126-45cf-a911-d491c6899794)
-" alt="PlantAI - Plant Disease Prediction" width="400">
+  <img src="https://github.com/user-attachments/assets/52055505-5cad-43bf-9c19-7bfaaa7c3a27"
+ alt="PlantAI - Plant Disease Prediction" width="400">
 </a>
 
 - 📄 **Description**: Developed a ResNet-18 model to classify 38 plant diseases using a
