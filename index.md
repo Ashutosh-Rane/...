@@ -27,11 +27,12 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF1493.svg?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4CAF50.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
+
 
 
 #### 🗄️ Databases
@@ -82,9 +83,9 @@ Python, TensorFlow, Scikit-learn, Flask
 
 <a href="https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal">
   <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e" 
-       alt="Voice Enabled Terminal Screenshot 1" height="300">
+       alt="Voice Enabled Terminal Screenshot 1" height="300" width="400">
   <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a" 
-       alt="Voice Enabled Terminal Screenshot 2" height="300">
+       alt="Voice Enabled Terminal Screenshot 2" height="300" width="400">
 </a>
 
 📄 **Description**  
