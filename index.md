@@ -73,23 +73,21 @@ Python, TensorFlow, Scikit-learn, Flask
 
 🔗 **GitHub Repository**  
 [PlantAI - Plant Disease Prediction](https://github.com/Ashutosh-Rane/PlantAI-Plant-Disease-Prediction-Using-AI)
-
----
-
  
 ---
 
 ### 🗣️ Voice Enabled Terminal
 
 <div align="center">
+  <p align="center">
   <a href="https://github.com/Ashutosh-Rane/Voice-Enabled-Terminal">
-  <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e" 
-       alt="Voice Enabled Terminal Screenshot 1" height="250" width="400">
-  <span style="display:inline-block; width: 100px;"></span> <!-- This adds 20px gap -->
-  <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a" 
-       alt="Voice Enabled Terminal Screenshot 2" height="250" width="400">
-</a>
-
+    <img src="https://github.com/user-attachments/assets/d8410711-bb9e-4261-9211-31dcec1b1c9e" 
+         alt="Voice Enabled Terminal Screenshot 1" height="250" width="400">
+    &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between images -->
+    <img src="https://github.com/user-attachments/assets/550b5377-7930-4abd-b116-0aa6e93baa1a" 
+         alt="Voice Enabled Terminal Screenshot 2" height="250" width="400">
+  </a>
+</p>
 </div>
 
 
